@@ -9,3 +9,9 @@
 本工程实现了与此有关的测试，在开启 `configUSE_NEWLIB_REENTRANT` 后程序才能正常运行。
 
 具体可见 [user_main.c](UserCode/user_main.c)
+
+**注：**
+
+*本工程使用 Embedded IDE.*
+
+*Makefile 文件由 CubeMX 生成，其中不包含 user_main.c，请不要直接使用 Makefile 编译。*
