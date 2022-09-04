@@ -8,4 +8,4 @@
 
 本工程实现了与此有关的测试，在开启 `configUSE_NEWLIB_REENTRANT` 后程序才能正常运行。
 
-具体可见 [user_main.c](UserCode\user_main.c)
+具体可见 [user_main.c](UserCode/user_main.c)
